@@ -38,13 +38,17 @@ namespace generateur_de_mot_de_passe
             }
             else if (choixAlphabet == 2)
             {
-                alphabet = minuscules + majuscules;
+                alphabet = majuscules;
             }
             else if (choixAlphabet == 3)
             {
-                alphabet = minuscules + majuscules + chiffres;
+                alphabet = minuscules + majuscules ;
             }
             else if(choixAlphabet == 4)
+            {
+                alphabet = minuscules + majuscules + chiffres ;
+            }
+            else if (choixAlphabet == 5)
             {
                 alphabet = minuscules + majuscules + chiffres + caractereSpeciaux;
             }
