@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generateur_de_mot_de_passe", "generateur_de_mot_de_passe\generateur_de_mot_de_passe.csproj", "{FA4A2569-54C0-4CA9-92E5-0C8A281F2DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4A2569-54C0-4CA9-92E5-0C8A281F2DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4A2569-54C0-4CA9-92E5-0C8A281F2DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4A2569-54C0-4CA9-92E5-0C8A281F2DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4A2569-54C0-4CA9-92E5-0C8A281F2DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B3D5701-DCFB-48F3-8064-D902AFF2CDF8}
+	EndGlobalSection
+EndGlobal
