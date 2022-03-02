@@ -19,7 +19,7 @@ namespace generateur_de_mot_de_passe
                 "2-Seulement majuscules? \n" +
                 "3-minuscules et majuscules? \n" +
                 "4-minuscules + majuscules + chiffres? \n" +
-                "5-minuscules + majuscules + chiffres + speciales?", 1, 4);
+                "5-minuscules + majuscules + chiffres + speciales?", 1, 5);
 
             Console.WriteLine();
 
